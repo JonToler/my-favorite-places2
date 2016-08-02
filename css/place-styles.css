@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+  text-align: center;
+  line-height: 80%;
+}
+h2 {
+  text-align: center;
+  font-weight: bolder;
+}
+p {
+  font-family: sans-seriff;
+}
+ul.a {
+  list-style-image: url(https://lh3.googleusercontent.com/-6porP9gICeE/AAAAAAAAAAI/AAAAAAAA6VY/e2jG-K0fyag/s46-c-k-no/photo.jpg);
+}
